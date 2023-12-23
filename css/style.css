@@ -1,22 +1,26 @@
 .background1 {
     background-image: url("../images/banner1.png");
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
+    background-position: center;
 }
 .background2 {
     background-image: url("../images/banner2.png");
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
+    background-position: center;
 }
 .background3 {
     background-image: url("../images/banner3.png");
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
+    background-position: center;
 }
 .background4 {
     background-image: url("../images/banner4.png");
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
+    background-position: center;
 }
 
 @media screen and (min-width:320px) and (max-width:425px) {
